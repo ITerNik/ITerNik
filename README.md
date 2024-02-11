@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center"> <h1>Nice to see you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="35" height="35" />
+<div align="center"> </h1> 
+<h2>My name is Nikita</h2>
+
+I'm currently studying at [ITMO University](https://itmo.ru/)
+
+Enjoy coding exciting projects
+</div>
 
 <!--
 **ITerNik/ITerNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
